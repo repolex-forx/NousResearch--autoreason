@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "autoreason",
+  "versions": [
+    {
+      "commit": "538f8817550e7c76c92355a967c5363d55ef9659",
+      "tag": "main",
+      "parsed_at": "2026-10-09T13:04:41.861951+00:00"
+    }
+  ]
+}
