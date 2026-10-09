@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/autoreason/commit/538f8817550e7c76c92355a967c5363d55ef9659",
       "git:hexsha": "538f8817550e7c76c92355a967c5363d55ef9659",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
